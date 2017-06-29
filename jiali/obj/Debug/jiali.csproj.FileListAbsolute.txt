@@ -7,3 +7,4 @@ D:\Git_Asp.net\jiali\jiali\obj\Debug\jiali.csproj.GenerateResource.Cache
 D:\Git_Asp.net\jiali\jiali\obj\Debug\jiali.exe
 D:\Git_Asp.net\jiali\jiali\obj\Debug\jiali.pdb
 D:\Git_Asp.net\jiali\jiali\obj\Debug\jiali.Form2.resources
+D:\Git_Asp.net\jiali\jiali\obj\Debug\jiali.csprojResolveAssemblyReference.cache

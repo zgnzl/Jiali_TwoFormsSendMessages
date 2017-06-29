@@ -25,17 +25,11 @@ namespace jiali
         {
             this.textBox1.Text = txt;
         }
-        public void AfterParentFrmTextChange(object sender, EventArgs e)
-       {
-            MyEventArg arg = e as MyEventArg;
-            this.SetText(arg.Text);
-        }
 
         internal void MainFormTxtChaned(object sender, EventArgs e)
         {
             MyEventArg arg = e as MyEventArg;
-            this.SetText(arg.Text);
-            
+            this.SetText(arg.Text); 
         }
 }
 }
